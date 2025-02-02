@@ -11,7 +11,7 @@
    },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/.git"
+"url": "https://github.com/slkomlo/tharuk/edit/main/README.md"
 },
 "keywords": [
 "whatsapp"
